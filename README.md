@@ -22,5 +22,3 @@
 #mongoose
 #mongoDB
 #schema
-
-^^^^^^^^^^^^^
